@@ -1,11 +1,11 @@
 # skeleton-module [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-[travis-image]: https://travis-ci.org/Kamicast/skeleton-module.svg?branch=master
-[travis-url]: https://travis-ci.org/Kamicast/skeleton-module
-[npm-image]: https://img.shields.io/npm/v/Kamicast/skeleton-module.svg
-[npm-url]: https://npmjs.org/package/Kamicast/skeleton-module
-[downloads-image]: https://img.shields.io/npm/dm/Kamicast/skeleton-module.svg
-[downloads-url]: https://npmjs.org/package/Kamicast/skeleton-module
+[travis-image]: https://travis-ci.org/kamicast/skeleton-module.svg?branch=master
+[travis-url]: https://travis-ci.org/kamicast/skeleton-module
+[npm-image]: https://img.shields.io/npm/v/kamicast/skeleton-module.svg
+[npm-url]: https://npmjs.org/package/kamicast/skeleton-module
+[downloads-image]: https://img.shields.io/npm/dm/@kamicast/skeleton-module.svg
+[downloads-url]: https://www.npmjs.com/package/@kamicast/skeleton-module
 
 ## About
 
