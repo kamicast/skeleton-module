@@ -1,4 +1,4 @@
-# skeleton-module [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
+# skeleton-module [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [travis-image]: https://travis-ci.org/Kamicast/skeleton-module.svg?branch=master
 [travis-url]: https://travis-ci.org/Kamicast/skeleton-module
