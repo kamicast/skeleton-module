@@ -2,8 +2,8 @@
 
 [travis-image]: https://travis-ci.org/kamicast/skeleton-module.svg?branch=master
 [travis-url]: https://travis-ci.org/kamicast/skeleton-module
-[npm-image]: https://img.shields.io/npm/v/kamicast/skeleton-module.svg
-[npm-url]: https://npmjs.org/package/kamicast/skeleton-module
+[npm-image]: https://img.shields.io/npm/v/@kamicast/skeleton-module.svg
+[npm-url]: https://npmjs.org/package/@kamicast/skeleton-module
 [downloads-image]: https://img.shields.io/npm/dm/@kamicast/skeleton-module.svg
 [downloads-url]: https://www.npmjs.com/package/@kamicast/skeleton-module
 
